@@ -40,7 +40,7 @@ class Pairs:
     # Gets the id, symbol, base, quote, and markets for the given currency pair. base and quote are both asset details #
     ####################################################################################################################
 
-    # The method returns a pandas dataframe ###
+    # The method returns a pandas dataframe #
     # id           int64
     # exchange    object markets
     # pair        object
