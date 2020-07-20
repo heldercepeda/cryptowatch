@@ -1,0 +1,1 @@
+Get data from cryptowat.ch API with Python
